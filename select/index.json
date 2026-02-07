@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Honto",
+  "base_artist": "sumika",
+  "createdAt": "2026-02-07T16:11:32.433933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honto wa ne",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/01_Honto_wa_ne_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honto No Tokoro",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/02_Honto_No_Tokoro_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Honto no Tokoro [ほんとのところ]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/03_Honto_no_Tokoro_[ほんとのところ]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Honto no Kotowa Iwanai",
+      "artist": "JUNNA",
+      "has_synced": true,
+      "path": "select/04_Honto_no_Kotowa_Iwanai_JUNNA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Honto ni Suki Datta",
+      "artist": "SS501",
+      "has_synced": true,
+      "path": "select/05_Honto_ni_Suki_Datta_SS501.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Futari no Kimochi no Honto no Himitsu",
+      "artist": "Yasuna (CV: Chinatsu Akasaki) feat. Soonya (CV: Mutsumi Tamura)",
+      "has_synced": true,
+      "path": "select/06_Futari_no_Kimochi_no_Honto_no_Himitsu_Yasuna_(CV__Chinatsu_Akasaki)_feat._Soonya_(CV__Mutsumi_Tamura).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Honto Wa Ne (That's true)",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/07_Honto_Wa_Ne_(That's_true)_Uru.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Honto da yo (Truly)",
+      "artist": "TrySail",
+      "has_synced": true,
+      "path": "select/08_Honto_da_yo_(Truly)_TrySail.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Honto da yo (Truly)",
+      "artist": "TrySail",
+      "has_synced": true,
+      "path": "select/09_Honto_da_yo_(Truly)_TrySail.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Honto wa, ne",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/10_Honto_wa,_ne_Uru.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Futari no Kimochi no Honto no Himitsu",
+      "artist": "Yasuna (CV: Chinatsu Akasaki)",
+      "has_synced": true,
+      "path": "select/11_Futari_no_Kimochi_no_Honto_no_Himitsu_Yasuna_(CV__Chinatsu_Akasaki).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Honto No Kotowo Iunonara",
+      "artist": "Nanawoakari",
+      "has_synced": true,
+      "path": "select/12_Honto_No_Kotowo_Iunonara_Nanawoakari.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Honto no Oto",
+      "artist": "Kokia",
+      "has_synced": true,
+      "path": "select/13_Honto_no_Oto_Kokia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Honto",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_Honto_sumika.txt"
+    }
+  ]
+}
